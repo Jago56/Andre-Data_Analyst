@@ -1,6 +1,6 @@
 # Hi, I'm Andre 👋
 
-I'm a transitioning professional moving into Python development with a strong foundation in Business Systems Analysis, Agile leadership, and technical problem‑solving. My journey blends years of experience guiding teams, improving processes, and delivering solutions — now focused on building real, practical software.
+Transitioning into a Data Analyst career after leveraging a layoff as an opportunity to reskill, completing the SkyStates Data Science & AI Program in October 2026. Built end‑to‑end analytics projects using Python, SQL, Power BI, Tableau, and machine learning, demonstrating strong capability in data cleaning, dashboard development, KPI automation, and business insight generation. Ready to contribute immediately in Data Analyst and BI Analyst roles.
 
 ## 🚀 What I'm Working On
 - Strengthening my Python fundamentals through hands‑on projects  
@@ -17,11 +17,9 @@ I'm a transitioning professional moving into Python development with a strong fo
 
 ## 📂 Current Projects
 - **Excel Report Generator** – automated reporting with charts, formulas, and formatting  
-- **API Caller Tools** – pulling real‑time data and converting it into structured reports  
-- **Python Practice Scripts** – interview prep, algorithms, and debugging exercises  
-
+- 
 ## 🎯 My Goals
-- Become a confident Python Developer/Engineer  
+- Become a confident Data Analyst
 - Build a portfolio that shows real‑world problem‑solving  
 - Continue leveling up through structured learning and consistent practice  
 
