@@ -16,7 +16,7 @@ Transitioning into a Data Analyst career after leveraging a layoff as an opportu
 - **Google Colab / VS Code**  
 
 ## 📂 Current Projects
-- **Excel Report Generator** – automated reporting with charts, formulas, and formatting  
+- **Excel Report Generator** – next effort
 - 
 ## 🎯 My Goals
 - Become a confident Data Analyst
