@@ -1,6 +1,6 @@
 # Hi, I'm Andre 👋
 
-Transitioning into a Data Analyst career after leveraging a layoff as an opportunity to reskill, completing the SkyStates Data Science & AI Program in October 2026. Built end‑to‑end analytics projects using Python, SQL, Power BI, Tableau, and machine learning, demonstrating strong capability in data cleaning, dashboard development, KPI automation, and business insight generation. Ready to contribute immediately in Data Analyst and BI Analyst roles.
+Transitioning into a career as a Scrum Master and Data Analyst after leveraging a layoff to reskill and completing the SkyStates Data Science & AI Program in October 2026. I’ve built end‑to‑end analytics projects using Python, SQL, Power BI, Tableau, and machine learning, demonstrating strong capability in data cleaning, dashboard development, KPI automation, and business insight generation. As a Scrum Master, I bring strengths in team facilitation, backlog refinement, sprint planning, and ensuring clear, testable requirements. Ready to contribute immediately in Data Analyst, BI Analyst, and Scrum Master roles.
 
 ## 🚀 What I'm Working On
 - Strengthening my Python fundamentals through hands‑on projects  
